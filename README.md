@@ -1,5 +1,5 @@
 # SpeechRecognitionAssistant
-To start you need to install couple of librarys:
+To start you need to install couple of librarys: \n
 pip install SpeechRecognition
 pip install pyttsx3
 pip install webbrowser
