@@ -1,12 +1,12 @@
 # SpeechRecognitionAssistant
-To start you need to install couple of librarys: \n
-pip install SpeechRecognition
-pip install pyttsx3
-pip install webbrowser
-pip install pyautogui
-pip install psutil
-pip install winshell
-pip install pyjokes
-pip install ecapture
-pip install pydirectinput
+To start you need to install couple of librarys:<br />
+pip install SpeechRecognition<br />
+pip install pyttsx3<br />
+pip install webbrowser<br />
+pip install pyautogui<br />
+pip install psutil<br />
+pip install winshell<br />
+pip install pyjokes<br />
+pip install ecapture<br />
+pip install pydirectinput<br />
 Start program from mainpage.py
